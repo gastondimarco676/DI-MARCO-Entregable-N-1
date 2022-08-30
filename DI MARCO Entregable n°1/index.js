@@ -1,6 +1,5 @@
 let nombre = prompt('Bienvenid@ a EIPROSS! Cuál es tu nombre?');
 let edad = parseInt(prompt(`${nombre}, cuál es tu edad?`));
-let costoBase = 0;
 let costo;
 let opción = parseInt(
   prompt(
